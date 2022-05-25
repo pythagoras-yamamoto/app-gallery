@@ -1,2 +1,2 @@
-git-test branch
+git-test
 git-test cherry-pick conflict
