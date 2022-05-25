@@ -1,2 +1,2 @@
 git-test branch
-git-test fetch
+git-test cherry-pick
